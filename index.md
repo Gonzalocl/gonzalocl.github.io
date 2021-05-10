@@ -18,10 +18,21 @@ This project consists of two coursework put together to make a better work.
 
 See [video](https://www.youtube.com/watch?v=QA3LeDqKk1c)
 
-## [tfg](https://github.com/Gonzalocl/tfg)
+## [ML techniques on ACDC](https://github.com/Gonzalocl/tfg)
 ![](https://img.shields.io/badge/-Python-blue)
 ![](https://img.shields.io/badge/-TensorFlow-orange)
 ![](https://img.shields.io/badge/-Bash-red)
 ![](https://img.shields.io/badge/-LaTeX-lightgrey)
 
 Bachelor Degree Dissertation. Use machine learning techniques on the [ACDC](https://www.creatis.insa-lyon.fr/Challenge/acdc/) dataset.
+
+## [Tracking](https://github.com/Gonzalocl/Trackin)
+![](https://img.shields.io/badge/-Java-red)
+![](https://img.shields.io/badge/-Android-green)
+
+Android app to record GPS fixes
+
+## [tracking-scripts](https://github.com/Gonzalocl/tracking-scripts/blob/main/track_csv2kml.py)
+![](https://img.shields.io/badge/-Python-blue)
+
+Python scripts for processing data form [Tracking](#Tracking)
