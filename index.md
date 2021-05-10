@@ -36,3 +36,12 @@ Android app to record GPS fixes
 ![](https://img.shields.io/badge/-Python-blue)
 
 Python scripts for processing data form [Tracking](#Tracking)
+
+## [IOT](https://github.com/Gonzalocl/iot)
+![](https://img.shields.io/badge/-Arduino-brightgreen)
+![](https://img.shields.io/badge/-Python-blue)
+![](https://img.shields.io/badge/-JavaScript-red)
+
+Coursework, read temperature and humidity form a DHT11 sensor with an Arduino,
+and send the data to different platforms; [thinger.io](https://thinger.io/) and
+[www.fiware.org](https://www.fiware.org/).
