@@ -42,7 +42,7 @@ Commands to install and configure arch linux in my PCs.
 
 Android app to record GPS fixes.
 
-## [tracking-scripts](https://github.com/Gonzalocl/tracking-scripts/blob/main/track_csv2kml.py)
+## [tracking-scripts](https://github.com/Gonzalocl/tracking-scripts)
 ![](https://img.shields.io/badge/-Python-blue)
 
 Python scripts for processing data form [Tracking](#Tracking).
