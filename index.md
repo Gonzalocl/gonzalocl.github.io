@@ -12,15 +12,17 @@ See [video](https://drive.google.com/file/d/1Wk3NjIWjeKzSvbwLjBFLrrNIiED2IcSe/vi
 ## BeagleBone Car and Android app remote control
 ![](https://img.shields.io/badge/-Android-green)
 ![](https://img.shields.io/badge/-Teamwork-ff69b4)
+![](https://img.shields.io/badge/-C-black)
+![](https://img.shields.io/badge/-Java-red)
 
-This project consists of two coursework put together to make a better work.
+This project consists of two coursework put together.
 
 - BeagleBone Car: A toy car with two motored wheels a camera, and a proximity sensor controlled by a BeagleBone.  
 - Android app remote control: Send commands to the BeagleBone to remote control the car, and receive the camera feed.
 
 See [video](https://www.youtube.com/watch?v=QA3LeDqKk1c).
 
-## [ML techniques on ACDC](https://github.com/Gonzalocl/tfg)
+## [Machine Learning techniques on ACDC](https://github.com/Gonzalocl/tfg)
 ![](https://img.shields.io/badge/-Python-blue)
 ![](https://img.shields.io/badge/-TensorFlow-orange)
 ![](https://img.shields.io/badge/-Bash-red)
