@@ -30,6 +30,12 @@ See [video](https://www.youtube.com/watch?v=QA3LeDqKk1c).
 
 Bachelor Degree Dissertation. Use machine learning techniques on the [ACDC](https://www.creatis.insa-lyon.fr/Challenge/acdc/) dataset.
 
+## [arch-linux-configuration](https://github.com/Gonzalocl/arch-linux-configuration)
+![](https://img.shields.io/badge/-Linux-yellowgreen)
+![](https://img.shields.io/badge/-Bash-red)
+
+Commands to install and configure arch linux in my PCs.
+
 ## [Tracking](https://github.com/Gonzalocl/Trackin)
 ![](https://img.shields.io/badge/-Java-red)
 ![](https://img.shields.io/badge/-Android-green)
