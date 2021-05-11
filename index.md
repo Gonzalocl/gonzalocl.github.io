@@ -45,14 +45,14 @@ Android app to record GPS fixes.
 ## [tracking-scripts](https://github.com/Gonzalocl/tracking-scripts)
 ![](https://img.shields.io/badge/-Python-blue)
 
-Python scripts for processing data form [Tracking](#Tracking).
+Python scripts for processing data form [Tracking](https://github.com/Gonzalocl/Trackin).
 
 ## [TrackingExport](https://github.com/Gonzalocl/TrackingExport)
 ![](https://img.shields.io/badge/-Android-green)
 ![](https://img.shields.io/badge/-Kotlin-blue)
 ![](https://img.shields.io/badge/-Bash-red)
 
-Android app for generating maps with data from [Tracking](#Tracking).
+Android app for generating maps with data from [Tracking](https://github.com/Gonzalocl/Trackin).
 
 ## [IOT](https://github.com/Gonzalocl/iot)
 ![](https://img.shields.io/badge/-Arduino-brightgreen)
